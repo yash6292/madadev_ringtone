@@ -1,33 +1,60 @@
 {
-  "status": "success",
-  "data": {
-    "adsclicklimit": "1",
-    "appTitle": "Mahadev Ringtones शिव रिंगटोन",
-    "appUrl": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
-    "app_version": "1.0.0",
-    "open_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_Mahadevringtones_AmdavadiInfotech_AppOpen_230523_InApp",
-    "inter_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_Mahadevringtones_AmdavadiInfotech_Interstitial_230523_InApp",
-    "native_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_Mahadevringtones_AmdavadiInfotech_Native_230523_InApp",
-    "banner_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_Mahadevringtones_AmdavadiInfotech_Banner_230523_InApp",
-    "flag1": true,
-    "flag2": true,
-    "flag3": true,
-    "flag4": true,
-    "flag5": true,
-    "flag6": true,
-    "flag7": true,
-    "flag8": true,
-    "flag9": true,
-    "flag10": true,
-    "flag11": true,
-    "flag12": true,
-    "flag13": true,
-    "flag14": true,
-    "flag15": true,
-    "flag16": true,
-    "flag17": true,
-    "flag18": true,
-    "flag19": true,
-    "flag20": true
-   }
+    "message": "success",
+    "data": [
+        {
+            "id": "1",
+            "ringtone_name": "Namo Namo Shankra- Kedarnath",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
+            "file": "1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
+            "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/namo%20namo%20shankra.jpeg"
+        },
+        {
+            "id": "2",
+            "ringtone_name": "Mera Bhola He Bhandari- Remix",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
+            "file": "1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
+            "thumbnail": "https://c.saavncdn.com/853/Mera-Bhola-Hai-Bhandari-Hindi-2021-20210518192934-500x500.jpg"
+        },
+        {
+            "id": "3",
+            "ringtone_name": "Mera Bhola He Bhandari",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
+            "file": "1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000b27352df6b5cd7957bc4d0bce495"
+        },
+        {
+            "id": "4",
+            "ringtone_name": "Me Bhola Parwat Ka",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
+            "file": "1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
+            "thumbnail": "https://c.saavncdn.com/629/Main-Bhola-Parvat-Ka-Hindi-2022-20230301055147-500x500.jpg"
+        },
+        {
+            "id": "5",
+            "ringtone_name": "Har Har Shambhu",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
+            "file": "1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
+            "thumbnail": "https://i1.sndcdn.com/artworks-JZNgkQh1toBqHfe2-2EyjrA-t500x500.png"
+        },
+        {
+            "id": "6",
+            "ringtone_name": "Sir Se Tere Baheti Ganga- Remix",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
+            "file": "1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
+            "thumbnail": "https://media.nojoto.com/content/media/670409/2020/02/feed/e24bfd4685b78f6372664182a2e77f38/e24bfd4685b78f6372664182a2e77f38_default.jpg"
+        },
+        {
+            "id": "7",
+            "ringtone_name": "Sir Se Tere Baheti Ganga",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
+            "file": "1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
+            "thumbnail": "https://cdn4.sharechat.com/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AD%E0%A4%9C%E0%A4%A8_2cb02c15_1581868349985_cmprsd_40.jpg"
+        },
+        {
+            "id": "8",
+            "ringtone_name": "Namah Shivay- Shivaay Movie",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
+            "file": "1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
+            "thumbnail": "https://c.saavncdn.com/698/Shivaay-Bhojpuri-2016-500x500.jpg"
+        }]
 }
