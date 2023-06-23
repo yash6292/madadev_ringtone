@@ -1,236 +1,236 @@
 {
-  "message": "success",
-  "data": [
-    {
-      "id": "1",
-      "ringtone_name": "Namo Namo Shankra- Kedarnath",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
-      "file": "1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
-      "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/namo%20namo%20shankra.jpeg"
-    },
-    {
-      "id": "2",
-      "ringtone_name": "Mera Bhola He Bhandari- Remix",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
-      "file": "1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
-      "thumbnail": "https://c.saavncdn.com/853/Mera-Bhola-Hai-Bhandari-Hindi-2021-20210518192934-500x500.jpg"
-    },
-    {
-      "id": "3",
-      "ringtone_name": "Mera Bhola He Bhandari",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
-      "file": "1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27352df6b5cd7957bc4d0bce495"
-    },
-    {
-      "id": "4",
-      "ringtone_name": "Me Bhola Parwat Ka",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
-      "file": "1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
-      "thumbnail": "https://c.saavncdn.com/629/Main-Bhola-Parvat-Ka-Hindi-2022-20230301055147-500x500.jpg"
-    },
-    {
-      "id": "31",
-      "ringtone_name": "Me Bhola Parwat Ka",
-      "ringtone_url": "https://yash6292.github.io/mahadev_ringtones_api/Har%20Har%20Gange%20.mp3",
-      "file": "Har%20Har%20Gange%20.mp3",
-      "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/Har%20Har%20Gange.jpg"
-    },
-    {
-      "id": "5",
-      "ringtone_name": "Har Har Shambhu",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
-      "file": "1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
-      "thumbnail": "https://i1.sndcdn.com/artworks-JZNgkQh1toBqHfe2-2EyjrA-t500x500.png"
-    },
-    {
-      "id": "6",
-      "ringtone_name": "Sir Se Tere Baheti Ganga- Remix",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
-      "file": "1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
-      "thumbnail": "https://media.nojoto.com/content/media/670409/2020/02/feed/e24bfd4685b78f6372664182a2e77f38/e24bfd4685b78f6372664182a2e77f38_default.jpg"
-    },
-    {
-      "id": "7",
-      "ringtone_name": "Sir Se Tere Baheti Ganga",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
-      "file": "1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
-      "thumbnail": "https://cdn4.sharechat.com/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AD%E0%A4%9C%E0%A4%A8_2cb02c15_1581868349985_cmprsd_40.jpg"
-    },
-    {
-      "id": "8",
-      "ringtone_name": "Namah Shivay- Shivaay Movie",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
-      "file": "1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
-      "thumbnail": "https://c.saavncdn.com/698/Shivaay-Bhojpuri-2016-500x500.jpg"
-    },
-    {
-      "id": "9",
-      "ringtone_name": "Nacho Bhai Nacho Aaj Bholenath Aayo",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1jy0K-ZUijXcDUaJDC4VISPgZK-YHwgTM",
-      "file": "1jy0K-ZUijXcDUaJDC4VISPgZK-YHwgTM",
-      "thumbnail": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37pE79WD/size_l_1533807259.jpg"
-    },
-    {
-      "id": "10",
-      "ringtone_name": "Kon Hai Woh",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=118_wCGK9TynC2VnppTsakS0d3h5atvOT",
-      "file": "118_wCGK9TynC2VnppTsakS0d3h5atvOT",
-      "thumbnail": "https://e1.pxfuel.com/desktop-wallpaper/862/468/desktop-wallpaper-bahubali-baahubali.jpg"
-    },
-    {
-      "id": "11",
-      "ringtone_name": "Jay Kal Mahakal Vikral Shambhu",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1lf9yxKU4gDuCRkdqe99a_tff4is_o56l",
-      "file": "1lf9yxKU4gDuCRkdqe99a_tff4is_o56l",
-      "thumbnail": "https://i0.wp.com/nashikcorporation.in/wp-content/uploads/2023/02/jai-kal-mahakal-song.png?resize=720%2C540&ssl=1"
-    },
-    {
-      "id": "32",
-      "ringtone_name": "Shiv Shiv Shiv Shiv",
-      "thumbnail": "https://c.saavncdn.com/138/Shiv-Shiv-Shiv-Marathi-2022-20220301122741-500x500.jpg",
-      "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Shiv Shiv Shiv Shiv.mp3",
-      "file": "Shiv Shiv Shiv Shiv.mp3"
-    },
-    {
-      "id": "12",
-      "ringtone_name": "Lagi Lagan Shankra",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1kZXIsTQ3wqz7_MdRb6811KpxvOT7Gkmu",
-      "file": "1kZXIsTQ3wqz7_MdRb6811KpxvOT7Gkmu",
-      "thumbnail": "https://pagaliworld.com/siteuploads/thumb/sft6/2782_4.jpg"
-    },
-    {
-      "id": "13",
-      "ringtone_name": "Me Shiv Ka Hu Shiv Mere He",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1BlFLMxHX6RNc6d2kfQ4GtcTD3-tqykch",
-      "file": "1BlFLMxHX6RNc6d2kfQ4GtcTD3-tqykch",
-      "thumbnail": "https://c.saavncdn.com/838/Main-Shiv-Ka-Shiv-Mere-Punjabi-2021-20210507195445-500x500.jpg"
-    },
-    {
-      "id": "14",
-      "ringtone_name": "Mahadev Tandav Stotram",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1sa5z-t63VFCL-OVeZQ18JtX5DquMXe4N",
-      "file": "1sa5z-t63VFCL-OVeZQ18JtX5DquMXe4N",
-      "thumbnail": "https://drive.google.com/uc?export=view&id=1sa5z-t63VFCL-OVeZQ18JtX5DquMXe4N"
-    },
-    {
-      "id": "15",
-      "ringtone_name": "Om Namah Shivay- Stuti",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1iWhLgXvfH7wcwnfADfpc4RcKmSbcF3QA",
-      "file": "1iWhLgXvfH7wcwnfADfpc4RcKmSbcF3QA",
-      "thumbnail": "https://www.bhaktiphotos.com/wp-content/uploads/2021/07/Om-Namah-Shivay-Images-for-Shiva-Devotees.jpg"
-    },
-    {
-      "id": "16",
-      "ringtone_name": "Om Jay Shiv Omkara",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=19Y5GWtE9OtHA_Rg_mG3060Kpmq3Cje6I",
-      "file": "19Y5GWtE9OtHA_Rg_mG3060Kpmq3Cje6I",
-      "thumbnail": "https://drive.google.com/uc?export=view&id=19Y5GWtE9OtHA_Rg_mG3060Kpmq3Cje6I"
-    },
-    {
-      "id": "17",
-      "ringtone_name": "Om Deva Deva - Brahmastra",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1JiV7d-AL_kk68LjiohspvUFiqS9ih2dk",
-      "file": "1JiV7d-AL_kk68LjiohspvUFiqS9ih2dk",
-      "thumbnail": "https://c.saavncdn.com/044/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpg"
-    },
-    {
-      "id": "18",
-      "ringtone_name": "Shiv Kailasho Ke Vasi",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1jhTQxKDmeCDAhU-PVC4aotYM29GEHQm7",
-      "file": "1jhTQxKDmeCDAhU-PVC4aotYM29GEHQm7",
-      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27323635c864150042345c5ec94"
-    },
-    {
-      "id": "19",
-      "ringtone_name": "Shiv Sama Rahe Mujhme",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=12a69wNS81YRc_pC7SwZS1NMQlg0S46Er",
-      "file": "12a69wNS81YRc_pC7SwZS1NMQlg0S46Er",
-      "thumbnail": "https://c.saavncdn.com/974/Shiv-Sama-Rahe-Hindi-2021-20210102222527-500x500.jpg"
-    },
-    {
-      "id": "20",
-      "ringtone_name": "Mahadev Ke Pujari",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1Dz1mDG_BEnJhHOStMXA07FB9f296W8zq",
-      "file": "1Dz1mDG_BEnJhHOStMXA07FB9f296W8zq",
-      "thumbnail": "https://c.saavncdn.com/516/Mahadev-Ke-Pujari-Hindi-2022-20220910114203-500x500.jpg"
-    },
-    {
-      "id": "21",
-      "ringtone_name": "Ek Bar Shree Bhole Bhandari",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1VLSmC-2g7BewNmy02pYMQAxTZxLfdqYJ",
-      "file": "1VLSmC-2g7BewNmy02pYMQAxTZxLfdqYJ",
-      "thumbnail": "https://c.saavncdn.com/958/Ek-Bar-Shri-Bhole-Bhandari-Hindi-2005-20210414125325-500x500.jpg"
-    },
-    {
-      "id": "22",
-      "ringtone_name": "Nagar Me Jogi Aaya",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1qeoJbDEuS285FLMTwvsn8xTHnpI2HeQf",
-      "file": "1qeoJbDEuS285FLMTwvsn8xTHnpI2HeQf",
-      "thumbnail": "https://c.saavncdn.com/469/Nagar-Me-Jogi-Aaya-Gujarati-2020-20200303060811-500x500.jpg"
-    },
-    {
-      "id": "23",
-      "ringtone_name": "Shiv Shankar Ko Jisne Pooja",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1LJZ85mOGRIIV3Kd474OllpeDbphVuy1v",
-      "file": "1LJZ85mOGRIIV3Kd474OllpeDbphVuy1v",
-      "thumbnail": "https://fun2desi.me/siteuploads/thumb/sft166/82780_4.jpg"
-    },
-    {
-      "id": "24",
-      "ringtone_name": "Hey Sambhu Baba Mere Bholenath",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1TKSfgtu3k1Ra7S9N8XhMjWmStef6arbR",
-      "file": "1TKSfgtu3k1Ra7S9N8XhMjWmStef6arbR",
-      "thumbnail": "https://raaga.gumlet.io/raagaimg/r_img/250/h/hd006765.jpg?w=240&dpr=2.6"
-    },
-    {
-      "id": "25",
-      "ringtone_name": "Subh Subh Le Shiv Ka",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1ME6Q1iuRIs-c5_62Ol4A6nq5wLjYC663",
-      "file": "1ME6Q1iuRIs-c5_62Ol4A6nq5wLjYC663",
-      "thumbnail": "https://c.saavncdn.com/113/Subha-Subha-Le-Shiv-Ka-Naam-Hindi-2020-20200330044450-500x500.jpg"
-    },
-    {
-      "id": "26",
-      "ringtone_name": "Damru Bajaya - Hansraj Raghuwanshi",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1450eb-la0n9W_pprFeM_5nTBpE99ObmY",
-      "file": "1450eb-la0n9W_pprFeM_5nTBpE99ObmY",
-      "thumbnail": "https://scontent.fstv4-1.fna.fbcdn.net/v/t1.6435-9/87043204_1443200665854339_4965112542138466304_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9267fe&_nc_ohc=z2C2ia4QAhgAX9QCaxE&_nc_ht=scontent.fstv4-1.fna&oh=00_AfACo74ENG226Y6aLLRT7tr8Z2TwX5l7oZkFfyNxU7RouQ&oe=64ABD32E"
-    },
-    {
-      "id": "27",
-      "ringtone_name": "Gayatri Mantra",
-      "ringtone_url": "https://drive.google.com/uc?export=view&id=1WBaAhLWRvM2aC7dfyteZdmrLYkCRE6kf",
-      "file": "1WBaAhLWRvM2aC7dfyteZdmrLYkCRE6kf",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gayatri_Mantra.jpg"
-    },
-    {
-      "id": "28",
-      "ringtone_name": "Maha Mrityunjaya Mantra",
-      "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/maha mrityunjay.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Maha Mrityunjaya Mantra.mp3",
-      "file": "Maha Mrityunjaya Mantra.mp3"
-    },
-    {
-      "id": "29",
-      "ringtone_name": "Shiv Amritwani",
-      "thumbnail": "https://p16.resso.me/img/tos-alisg-v-2102/93eb1c8ec0fd45ff93146ad12e3813c7~c5_500x500.jpg",
-      "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Shiv Amritwani.mp3",
-      "file": "Shiv Amritwani.mp3"
-    },
-    {
-      "id": "30",
-      "ringtone_name": "Karpur Gauram Karunavtaram",
-      "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/goddess-562820__340.jpg",
-      "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Devon Ke Dev Mahadev.mp3",
-      "file": "Devon Ke Dev Mahadev.mp3"
-    },
-    {
-      "id": "33",
-      "ringtone_name": "Om Manglam Omkar Manglam",
-      "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/Om%20Mangalam%20Omkar%20Mangalam.jpg",
-      "ringtone_url": "https://yash6292.github.io/mahadev_ringtones_api/Om%20Mangalam%20Omkar%20Mangalam%20-%20Shiva%20Bhajan.mp3",
-      "file": "Om%20Mangalam%20Omkar%20Mangalam%20-%20Shiva%20Bhajan.mp3"
-    }
-  ]
+    "message": "success",
+    "data": [
+        {
+            "id": "1",
+            "ringtone_name": "Namo Namo Shankra- Kedarnath",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
+            "file": "1Kujh4nuBNhk2X5eReuNlYJXDIl-oUgmM",
+            "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/namo%20namo%20shankra.jpeg"
+        },
+        {
+            "id": "2",
+            "ringtone_name": "Mera Bhola He Bhandari- Remix",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
+            "file": "1QVDKr2-hT48QelCJX7sxg-mfofhiCIao",
+            "thumbnail": "https://c.saavncdn.com/853/Mera-Bhola-Hai-Bhandari-Hindi-2021-20210518192934-500x500.jpg"
+        },
+        {
+            "id": "3",
+            "ringtone_name": "Mera Bhola He Bhandari",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
+            "file": "1CBMJWRYPQu8VtDqrvjTXu7ewZW1M5V7W",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000b27352df6b5cd7957bc4d0bce495"
+        },
+        {
+            "id": "4",
+            "ringtone_name": "Me Bhola Parwat Ka",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
+            "file": "1JCVG3x295iyEUMy2z-Y_4CxyFTNNGMcC",
+            "thumbnail": "https://c.saavncdn.com/629/Main-Bhola-Parvat-Ka-Hindi-2022-20230301055147-500x500.jpg"
+        },
+        {
+            "id": "31",
+            "ringtone_name": "Me Bhola Parwat Ka",
+            "ringtone_url": "https://yash6292.github.io/mahadev_ringtones_api/Har%20Har%20Gange%20.mp3",
+            "file": "Har%20Har%20Gange%20.mp3",
+            "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/Har%20Har%20Gange.jpg"
+        },
+        {
+            "id": "5",
+            "ringtone_name": "Har Har Shambhu",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
+            "file": "1599e4bp3P4b0jRIT4qdMV6VPmZqeOW6A",
+            "thumbnail": "https://i1.sndcdn.com/artworks-JZNgkQh1toBqHfe2-2EyjrA-t500x500.png"
+        },
+        {
+            "id": "6",
+            "ringtone_name": "Sir Se Tere Baheti Ganga- Remix",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
+            "file": "1I0VYwnUrckJu1Wn_iWXWLcrQRvKaTOUy",
+            "thumbnail": "https://media.nojoto.com/content/media/670409/2020/02/feed/e24bfd4685b78f6372664182a2e77f38/e24bfd4685b78f6372664182a2e77f38_default.jpg"
+        },
+        {
+            "id": "7",
+            "ringtone_name": "Sir Se Tere Baheti Ganga",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
+            "file": "1v1yWKjVrVA5FvFwa8yPqGAm8omZYoMpS",
+            "thumbnail": "https://cdn4.sharechat.com/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AD%E0%A4%9C%E0%A4%A8_2cb02c15_1581868349985_cmprsd_40.jpg"
+        },
+        {
+            "id": "8",
+            "ringtone_name": "Namah Shivay- Shivaay Movie",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
+            "file": "1cRgt9llY57BBMuQObL9CDfXYQmzHQHHP",
+            "thumbnail": "https://c.saavncdn.com/698/Shivaay-Bhojpuri-2016-500x500.jpg"
+        },
+        {
+            "id": "9",
+            "ringtone_name": "Nacho Bhai Nacho Aaj Bholenath Aayo",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1jy0K-ZUijXcDUaJDC4VISPgZK-YHwgTM",
+            "file": "1jy0K-ZUijXcDUaJDC4VISPgZK-YHwgTM",
+            "thumbnail": "https://a10.gaanacdn.com/gn_img/albums/ZaP374RWDy/aP37pE79WD/size_l_1533807259.jpg"
+        },
+        {
+            "id": "10",
+            "ringtone_name": "Kon Hai Woh",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=118_wCGK9TynC2VnppTsakS0d3h5atvOT",
+            "file": "118_wCGK9TynC2VnppTsakS0d3h5atvOT",
+            "thumbnail": "https://e1.pxfuel.com/desktop-wallpaper/862/468/desktop-wallpaper-bahubali-baahubali.jpg"
+        },
+        {
+            "id": "11",
+            "ringtone_name": "Jay Kal Mahakal Vikral Shambhu",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1lf9yxKU4gDuCRkdqe99a_tff4is_o56l",
+            "file": "1lf9yxKU4gDuCRkdqe99a_tff4is_o56l",
+            "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/mahadev1.jpg"
+        },
+        {
+            "id": "32",
+            "ringtone_name": "Shiv Shiv Shiv Shiv",
+            "thumbnail": "https://c.saavncdn.com/138/Shiv-Shiv-Shiv-Marathi-2022-20220301122741-500x500.jpg",
+            "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Shiv Shiv Shiv Shiv.mp3",
+            "file": "Shiv Shiv Shiv Shiv.mp3"
+        },
+        {
+            "id": "12",
+            "ringtone_name": "Lagi Lagan Shankra",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1kZXIsTQ3wqz7_MdRb6811KpxvOT7Gkmu",
+            "file": "1kZXIsTQ3wqz7_MdRb6811KpxvOT7Gkmu",
+            "thumbnail": "https://pagaliworld.com/siteuploads/thumb/sft6/2782_4.jpg"
+        },
+        {
+            "id": "13",
+            "ringtone_name": "Me Shiv Ka Hu Shiv Mere He",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1BlFLMxHX6RNc6d2kfQ4GtcTD3-tqykch",
+            "file": "1BlFLMxHX6RNc6d2kfQ4GtcTD3-tqykch",
+            "thumbnail": "https://c.saavncdn.com/838/Main-Shiv-Ka-Shiv-Mere-Punjabi-2021-20210507195445-500x500.jpg"
+        },
+        {
+            "id": "14",
+            "ringtone_name": "Mahadev Tandav Stotram",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1sa5z-t63VFCL-OVeZQ18JtX5DquMXe4N",
+            "file": "1sa5z-t63VFCL-OVeZQ18JtX5DquMXe4N",
+            "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/mahadev2.jpg"
+        },
+        {
+            "id": "15",
+            "ringtone_name": "Om Namah Shivay- Stuti",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1iWhLgXvfH7wcwnfADfpc4RcKmSbcF3QA",
+            "file": "1iWhLgXvfH7wcwnfADfpc4RcKmSbcF3QA",
+            "thumbnail": "https://www.bhaktiphotos.com/wp-content/uploads/2021/07/Om-Namah-Shivay-Images-for-Shiva-Devotees.jpg"
+        },
+        {
+            "id": "16",
+            "ringtone_name": "Om Jay Shiv Omkara",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=19Y5GWtE9OtHA_Rg_mG3060Kpmq3Cje6I",
+            "file": "19Y5GWtE9OtHA_Rg_mG3060Kpmq3Cje6I",
+            "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/Om-Jai-Shiv-Omkara.jpg"
+        },
+        {
+            "id": "17",
+            "ringtone_name": "Om Deva Deva - Brahmastra",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1JiV7d-AL_kk68LjiohspvUFiqS9ih2dk",
+            "file": "1JiV7d-AL_kk68LjiohspvUFiqS9ih2dk",
+            "thumbnail": "https://c.saavncdn.com/044/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpg"
+        },
+        {
+            "id": "18",
+            "ringtone_name": "Shiv Kailasho Ke Vasi",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1jhTQxKDmeCDAhU-PVC4aotYM29GEHQm7",
+            "file": "1jhTQxKDmeCDAhU-PVC4aotYM29GEHQm7",
+            "thumbnail": "https://i.scdn.co/image/ab67616d0000b27323635c864150042345c5ec94"
+        },
+        {
+            "id": "19",
+            "ringtone_name": "Shiv Sama Rahe Mujhme",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=12a69wNS81YRc_pC7SwZS1NMQlg0S46Er",
+            "file": "12a69wNS81YRc_pC7SwZS1NMQlg0S46Er",
+            "thumbnail": "https://c.saavncdn.com/974/Shiv-Sama-Rahe-Hindi-2021-20210102222527-500x500.jpg"
+        },
+        {
+            "id": "20",
+            "ringtone_name": "Mahadev Ke Pujari",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1Dz1mDG_BEnJhHOStMXA07FB9f296W8zq",
+            "file": "1Dz1mDG_BEnJhHOStMXA07FB9f296W8zq",
+            "thumbnail": "https://c.saavncdn.com/516/Mahadev-Ke-Pujari-Hindi-2022-20220910114203-500x500.jpg"
+        },
+        {
+            "id": "21",
+            "ringtone_name": "Ek Bar Shree Bhole Bhandari",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1VLSmC-2g7BewNmy02pYMQAxTZxLfdqYJ",
+            "file": "1VLSmC-2g7BewNmy02pYMQAxTZxLfdqYJ",
+            "thumbnail": "https://c.saavncdn.com/958/Ek-Bar-Shri-Bhole-Bhandari-Hindi-2005-20210414125325-500x500.jpg"
+        },
+        {
+            "id": "22",
+            "ringtone_name": "Nagar Me Jogi Aaya",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1qeoJbDEuS285FLMTwvsn8xTHnpI2HeQf",
+            "file": "1qeoJbDEuS285FLMTwvsn8xTHnpI2HeQf",
+            "thumbnail": "https://c.saavncdn.com/469/Nagar-Me-Jogi-Aaya-Gujarati-2020-20200303060811-500x500.jpg"
+        },
+        {
+            "id": "23",
+            "ringtone_name": "Shiv Shankar Ko Jisne Pooja",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1LJZ85mOGRIIV3Kd474OllpeDbphVuy1v",
+            "file": "1LJZ85mOGRIIV3Kd474OllpeDbphVuy1v",
+            "thumbnail": "https://fun2desi.me/siteuploads/thumb/sft166/82780_4.jpg"
+        },
+        {
+            "id": "24",
+            "ringtone_name": "Hey Sambhu Baba Mere Bholenath",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1TKSfgtu3k1Ra7S9N8XhMjWmStef6arbR",
+            "file": "1TKSfgtu3k1Ra7S9N8XhMjWmStef6arbR",
+            "thumbnail": "https://raaga.gumlet.io/raagaimg/r_img/250/h/hd006765.jpg?w=240&dpr=2.6"
+        },
+        {
+            "id": "25",
+            "ringtone_name": "Subh Subh Le Shiv Ka",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1ME6Q1iuRIs-c5_62Ol4A6nq5wLjYC663",
+            "file": "1ME6Q1iuRIs-c5_62Ol4A6nq5wLjYC663",
+            "thumbnail": "https://c.saavncdn.com/113/Subha-Subha-Le-Shiv-Ka-Naam-Hindi-2020-20200330044450-500x500.jpg"
+        },
+        {
+            "id": "26",
+            "ringtone_name": "Damru Bajaya - Hansraj Raghuwanshi",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1450eb-la0n9W_pprFeM_5nTBpE99ObmY",
+            "file": "1450eb-la0n9W_pprFeM_5nTBpE99ObmY",
+            "thumbnail": "https://scontent.fstv4-1.fna.fbcdn.net/v/t1.6435-9/87043204_1443200665854339_4965112542138466304_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9267fe&_nc_ohc=z2C2ia4QAhgAX9QCaxE&_nc_ht=scontent.fstv4-1.fna&oh=00_AfACo74ENG226Y6aLLRT7tr8Z2TwX5l7oZkFfyNxU7RouQ&oe=64ABD32E"
+        },
+        {
+            "id": "27",
+            "ringtone_name": "Gayatri Mantra",
+            "ringtone_url": "https://drive.google.com/uc?export=view&id=1WBaAhLWRvM2aC7dfyteZdmrLYkCRE6kf",
+            "file": "1WBaAhLWRvM2aC7dfyteZdmrLYkCRE6kf",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Gayatri_Mantra.jpg"
+        },
+        {
+            "id": "28",
+            "ringtone_name": "Maha Mrityunjaya Mantra",
+            "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/maha mrityunjay.jpeg",
+            "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Maha Mrityunjaya Mantra.mp3",
+            "file": "Maha Mrityunjaya Mantra.mp3"
+        },
+        {
+            "id": "29",
+            "ringtone_name": "Shiv Amritwani",
+            "thumbnail": "https://p16.resso.me/img/tos-alisg-v-2102/93eb1c8ec0fd45ff93146ad12e3813c7~c5_500x500.jpg",
+            "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Shiv Amritwani.mp3",
+            "file": "Shiv Amritwani.mp3"
+        },
+        {
+            "id": "30",
+            "ringtone_name": "Karpur Gauram Karunavtaram",
+            "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/goddess-562820__340.jpg",
+            "ringtone_url": "https://devkaranjurad.github.io/bholenath_ringtone/Devon Ke Dev Mahadev.mp3",
+            "file": "Devon Ke Dev Mahadev.mp3"
+        },
+        {
+            "id": "33",
+            "ringtone_name": "Om Manglam Omkar Manglam",
+            "thumbnail": "https://yash6292.github.io/mahadev_ringtones_api/Om%20Mangalam%20Omkar%20Mangalam.jpg",
+            "ringtone_url": "https://yash6292.github.io/mahadev_ringtones_api/Om%20Mangalam%20Omkar%20Mangalam%20-%20Shiva%20Bhajan.mp3",
+            "file": "Om%20Mangalam%20Omkar%20Mangalam%20-%20Shiva%20Bhajan.mp3"
+        }
+    ]
 }
